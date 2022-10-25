@@ -5,5 +5,5 @@
 Good Morning, programmers! 👋
 
 - :orange_book: C++/Python
-- :anchor: baby researcher in explainable AI 
+- :anchor: baby researcher in ML
 - :soccer: soccer Lover
