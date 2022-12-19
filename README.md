@@ -2,7 +2,7 @@
 
 
 
-Good Morning, programmers! 👋
+First-year Ph.D. student in Georgia Tech in Machine Learning.
 
 - :orange_book: C++/Python
 - :anchor: baby researcher in ML
