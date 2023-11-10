@@ -2,8 +2,9 @@
 
 
 
-2nd-year Ph.D. student in Georgia Tech in Machine Learning.
+I am a 2nd-year Machine Learning Ph.D. student at Georgia Tech.
 
-- :orange_book: C++/Python
+- :orange_book: Python/C++
 - :anchor: Ph.D. student in ML
 - :soccer: soccer Lover
+- 🎮 LOL
